@@ -1,5 +1,21 @@
 == Changelog ==
 
+= 3.3.4 =
+
+[Add] - Info notice before connecting to web app.
+
+= 3.3.3 =
+
+[Add] - Included expanded js and css code.
+[Tweak] - Review link updated.
+[Fix] - Minor fixes.
+
+= 3.3.2 =
+
+[Enhancement] - Accessibility improvements.  
+[Removed] - AccessYes promotion banner removed from the plugin.
+[Fix] - Minor bug fixes.
+
 = 3.3.1 =
 
 [Add] - Added a promotional banner for the AccessYes widget inside the plugin dashboard for non-connected users.  
